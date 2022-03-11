@@ -1,4 +1,4 @@
-# News_Grid_UI
+# News Grid UI
 
 Fictional news website which consists of a home, about and article pages built using CSS Grid.
 
